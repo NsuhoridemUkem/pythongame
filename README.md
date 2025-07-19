@@ -44,6 +44,22 @@ This beginner project helps you practice:
 3. Open the `treasure_island.py` file in **PyCharm** or any Python IDE.
 4. Run the script and follow the prompts.
 
+---
+
+## Preview
+
+*******************************************************************************
+          |                   |                  |                     |
+ _________|________________.=""_;=.______________|_____________________|_______
+|                   |  ,-"_,=""     `"=.|                  |
+... [ASCII continues] ...
+*******************************************************************************
+Welcome to Treasure Island.
+Your mission is to find the treasure.
+You're at a cross road. Choose your direction.
+  Take "left" or "right".
+
+
 ```bash
 python treasure_island.py
 
